@@ -1,0 +1,37 @@
+{
+  "name": "social-tree",
+  "version": "1.0.0",
+  "description": "social tree, see your social relatives, social progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajnikant-panchal/social-tree.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "Rajnikant Panchal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajnikant-panchal/social-tree/issues"
+  },
+  "homepage": "https://github.com/rajnikant-panchal/social-tree#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "aws-sdk": "^2.228.1",
+    "aws-xray-sdk": "^1.2.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5",
+    "mysql": "^2.15.0",
+    "request-promise": "^4.2.2",
+    "request": "^2.34.0"
+  }
+}
